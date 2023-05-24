@@ -1,6 +1,6 @@
 # task
 
-A new Flutter project.
+A new Flutter project build on latest version of Flutter v3.10.1 as on 25th May 2023 showcase the high usability of the code using Flutter Bloc
 
 ## Getting Started
 
